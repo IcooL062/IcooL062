@@ -12,7 +12,7 @@
     <div class="profile-card">
         <div class="card-header">
             <div class="pic">
-                <img src="" alt="">
+                <img src="Your picture file" alt="">
             </div>
             <div class="name">Your Name</div>
             <div class="desc">Description</div>
